@@ -1,0 +1,3 @@
+[submodule "parallel-algorithms"]
+	path = parallel-algorithms
+	url = git@bitbucket.org:sunoru/parallel-algorithms.git
